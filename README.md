@@ -5,9 +5,9 @@
 The format of dispersion data is as followed: 
 
 ```
-# 25.148500 121.511100 5
-25.158529 121.476890 0.7990
-25.133539 121.499190 1.0420
+# 25.1 121.5 5
+25.1 121.4 0.7990
+25.1 121.4 1.0420
 ```
 
 Lines begin with '#' represent the sources, followed by source latitude, source longitude, period (second).
